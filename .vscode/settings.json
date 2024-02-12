@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "numbers": "cpp",
+        "tuple": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
+    }
+}
