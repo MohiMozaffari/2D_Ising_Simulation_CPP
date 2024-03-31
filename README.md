@@ -1,4 +1,4 @@
-# Ising 2D Simulation
+# 2D Ising Simulation
 
 This project simulates the 2D Ising model using Monte Carlo methods and calculates various thermodynamic properties such as energy, magnetization, specific heat, magnetic susceptibility, and Binder cumulant.
 
