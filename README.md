@@ -20,19 +20,19 @@ To run the simulation, you will need a C++ compiler that supports C++11 or later
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/Ising_2D.git
+   git clone https://github.com/MohiMozaffari/2D_Ising_Simulation_CPP.git 
    ```
 
 2. Compile the code:
 
     ```bash
-    g++ -o Ising_2D Ising_2D.cpp
+    g++ -o Ising_2D/main.cpp
     ```
 
 ## Usage
 To run the simulation, execute the compiled binary:
 ```bash
-./Ising_2D
+./main
 ```
 
 The simulation will generate a CSV file containing the results of the simulation.
